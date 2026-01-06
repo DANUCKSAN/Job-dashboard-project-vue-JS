@@ -1,6 +1,6 @@
-{
-  "jobs": [
-    {
+
+[
+     [{
       "title": "Senior Vue Dev",
       "type": "Full-Time",
       "location": "Boston, MA",
@@ -84,5 +84,6 @@
         "contactPhone": "555-555-5555"
       }
     }
-  ]
-}
+]
+
+]
