@@ -7,7 +7,7 @@
     "node": "^20.19.0 || >=22.12.0"
   },
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
     "server": "json-server --watch src/jobs.json --port 8000"
@@ -17,8 +17,7 @@
     "json-server": "^1.0.0-beta.3",
     "primeicons": "^7.0.0",
     "vue": "^3.5.22",
-    "vue-router": "^4.6.4",
-    "vue-spinner": "^1.0.4"
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
